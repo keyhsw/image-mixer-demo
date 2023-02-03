@@ -175,7 +175,7 @@ To skip the queue you can try it on <a href="https://gradio.659760a2fca34f7581e6
                     strengths.append(strength)
     with gr.Row():
         cfg_scale = gr.Slider(label="CFG scale", value=3, minimum=1, maximum=10, step=0.5)
-        n_samples = gr.Slider(label="Num samples", value=2, minimum=1, maximum=2, step=1)
+        n_samples = gr.Slider(label="Num samples", value=1, minimum=1, maximum=1, step=1)
         seed = gr.Slider(label="Seed", value=0, minimum=0, maximum=10000, step=1)
         steps = gr.Slider(label="Steps", value=30, minimum=10, maximum=100, step=5)
 

@@ -109,6 +109,9 @@ def run(*args):
 
     ims = sample(sampler, model, conds, 0*conds, scale, start_code, ddim_steps=steps)
     # return make_row(ims)
+
+    # Clear GPU memory cache so less likely to OOM
+    torch.cuda.empty_cache()
     return ims
 
 

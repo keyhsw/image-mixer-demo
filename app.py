@@ -142,7 +142,7 @@ with gr.Blocks(title="Image Mixer", css=".gr-box {border-color: #8136e2}") as de
 
 _Created by [Justin Pinkney](https://www.justinpinkney.com) at [Lambda Labs](https://lambdalabs.com/)_
 
-To skip the queue you can try it on <a href="https://gradio.659760a2fca34f7581e6586fa8d5d615.lambdaspaces.com/" style="display:inline-block;position: relative;"><img style="margin-top: 0;margin-bottom: 0;margin-left: .25em;" src="https://img.shields.io/badge/-Lambda%20Cloud-blueviolet"></a>, or <a href="https://huggingface.co/spaces/lambdalabs/image-mixer-demo?duplicate=true" style="display:inline-block;position: relative;"><img style="margin-top: 0;margin-bottom: 0;margin-left: .25em;" src="https://bit.ly/3gLdBN6"></a>
+To skip the queue you can try it on <a href="https://cloud.lambdalabs.com/demos/ml/image-mixer-demo" style="display:inline-block;position: relative;"><img style="margin-top: 0;margin-bottom: 0;margin-left: .25em;" src="https://img.shields.io/badge/-Lambda%20Cloud-blueviolet"></a>, or <a href="https://huggingface.co/spaces/lambdalabs/image-mixer-demo?duplicate=true" style="display:inline-block;position: relative;"><img style="margin-top: 0;margin-bottom: 0;margin-left: .25em;" src="https://bit.ly/3gLdBN6"></a>
 
 ### __Provide one or more images to be mixed together by a fine-tuned Stable Diffusion model (see tips and advice below👇).__
 

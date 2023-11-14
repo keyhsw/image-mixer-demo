@@ -146,7 +146,6 @@ To skip the queue you can try it on <a href="https://cloud.lambdalabs.com/demos/
 
 ### __Provide one or more images to be mixed together by a fine-tuned Stable Diffusion model (see tips and advice below👇).__
 
-![banner-large.jpeg](https://s3.amazonaws.com/moonup/production/uploads/1674039767068-62bd5f951e22ec84279820e8.jpeg)
 
 """)
 
